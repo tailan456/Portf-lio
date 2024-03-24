@@ -1,6 +1,8 @@
-Thanks for downloading this template!
+Portfólio pessoal para meus trabalhos.
 
-Template Name: iPortfolio
+Template Name: Tailan portfólio
+
+Baseado no template iPortfólio de Bootstrap
 Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
